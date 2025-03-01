@@ -2,3 +2,8 @@ Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 2 dalam mata kuli
 
 
 ![image](https://github.com/user-attachments/assets/c3c68358-5ec0-4ac4-8643-29cdbdde33cf)
+
+alur: memiliki 3 buah class yang dimana, class Petshop merupakan parent, lalu ada class Aksesoris yang merupakah child, dan class Baju yang merupakan grandchild.
+      jadi Petshop mewarisi semua atribut dan methods yang dia punya ke class Aksesoris, maka Aksesoris memiliki semua atribut dan methods dari Petshop di tambah 
+      atribut dan methods ia sendiri, lalu Aksesoris mewarisi lagi semua atribut dan methods termasuk atribut dan methods yang dimiliki oleh petshop pada class Baju. 
+      sehingga Baju memiliki semua atribut dan methods yang dimiliki oleh class Petshop dan juga class Aksesoris, ditambah ia memiliki atribut dan methods ia sendiri.
